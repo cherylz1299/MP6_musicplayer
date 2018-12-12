@@ -1,4 +1,4 @@
-#Mon Dec 10 00:23:07 CST 2018
-base.0=E\:\\MUSIC\\SimpleBeautyMusicPlayer2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4
+#Wed Dec 12 05:29:38 CST 2018
+base.0=C\:\\Users\\cheryl\\Desktop\\SimpleBeautyMusicPlayer2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4
 renamed.0=classes.dex
-file.0=E\:\\MUSIC\\SimpleBeautyMusicPlayer2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4\\classes.dex
+file.0=C\:\\Users\\cheryl\\Desktop\\SimpleBeautyMusicPlayer2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4\\classes.dex
